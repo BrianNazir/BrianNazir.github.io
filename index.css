@@ -1,3 +1,7 @@
+* {
+  font-family: monospace;
+}
+
 body {
   background-color: beige;
   text-align: center;
